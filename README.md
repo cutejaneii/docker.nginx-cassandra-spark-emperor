@@ -1,4 +1,4 @@
-# docker.uwsgi-nginx-flask-cassandra-spark-emperor #
+# docker.nginx-cassandra-spark-emperor #
 This docker image allow to handle multiple flask applications at the same time, and we also installed following software as below.
 
 - spark
